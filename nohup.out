@@ -1,0 +1,41 @@
+ERROR:  authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.
+ERROR:  Your authtoken: G7DB72FXYE54LWHZWVPCKDHUB7GZ73PN
+ERROR:  Instructions to install your authtoken are on your ngrok dashboard:
+ERROR:  https://dashboard.ngrok.com/get-started/your-authtoken
+ERROR:  
+ERROR:  ERR_NGROK_105
+ERROR:  https://ngrok.com/docs/errors/err_ngrok_105
+ERROR:  
+ERROR:  authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.
+ERROR:  Your authtoken: G7DB72FXYE54LWHZWVPCKDHUB7GZ73PN
+ERROR:  Instructions to install your authtoken are on your ngrok dashboard:
+ERROR:  https://dashboard.ngrok.com/get-started/your-authtoken
+ERROR:  
+ERROR:  ERR_NGROK_105
+ERROR:  https://ngrok.com/docs/errors/err_ngrok_105
+ERROR:  
+ERROR:  authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.
+ERROR:  Your authtoken: G7DB72FXYE54LWHZWVPCKDHUB7GZ73PN
+ERROR:  Instructions to install your authtoken are on your ngrok dashboard:
+ERROR:  https://dashboard.ngrok.com/get-started/your-authtoken
+ERROR:  
+ERROR:  ERR_NGROK_105
+ERROR:  https://ngrok.com/docs/errors/err_ngrok_105
+ERROR:  
+ERROR:  authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.
+ERROR:  Your authtoken: G7DB72FXYE54LWHZWVPCKDHUB7GZ73PN
+ERROR:  Instructions to install your authtoken are on your ngrok dashboard:
+ERROR:  https://dashboard.ngrok.com/get-started/your-authtoken
+ERROR:  
+ERROR:  ERR_NGROK_105
+ERROR:  https://ngrok.com/docs/errors/err_ngrok_105
+ERROR:  
+Flag --region has been deprecated, ngrok automatically chooses the region with lowest latency
+ERROR:  authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.
+ERROR:  Your authtoken: G7DB72FXYE54LWHZWVPCKDHUB7GZ73PN
+ERROR:  Instructions to install your authtoken are on your ngrok dashboard:
+ERROR:  https://dashboard.ngrok.com/get-started/your-authtoken
+ERROR:  
+ERROR:  ERR_NGROK_105
+ERROR:  https://ngrok.com/docs/errors/err_ngrok_105
+ERROR:  
